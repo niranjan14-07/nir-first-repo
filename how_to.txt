@@ -14,3 +14,4 @@ Unstage one file:
 git reset <file>
 Unstage everything:
 git reset
+git status
